@@ -1,7 +1,7 @@
 # Data Scientist
 ### TECHNICAL SKILLS
--Programming Language: Python, R Programming, HTML, SQL, JavaScript, PHP
--Other Software/Tools: PowerBI, MS Excel, Google sheets, Tableau, Deep Learning, Machine Learning, MS Word, MS PowerPoint, SQL Server, AWS, Azure, Microsoft Office.
+Programming Language: Python, R Programming, HTML, SQL, JavaScript, PHP
+Other Software/Tools: PowerBI, MS Excel, Google sheets, Tableau, Deep Learning, Machine Learning, MS Word, MS PowerPoint, SQL Server, AWS, Azure, Microsoft Office.
 
 ### Education
 MSc in Data Science | University of Essex, United Kingdom | 2022 – 2023 </br>
