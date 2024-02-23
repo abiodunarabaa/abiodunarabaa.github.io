@@ -17,28 +17,31 @@ BSc in Computer Science| Lagos State University | 2010 – 2015
 Modules included: Data Structure, Software practice, Introduction to Information Processing, Database management, Statistical computing (using R and SPSS), Introduction to PHP and MySQL, Statistical Processing system, Modelling and Simulation
 
 ### Work Experience
-Data Administrator | December 2022 – December 2023</br>
+Data Administrator | December 2022 – December 2023
 WY Academy							
-•	Demonstrate proficiency in fault finding, quickly identifying and addressing issues to minimize downtime for clients. 
-•	Proactively report reoccurring faults to enable timely and effective management and resolution. 
-•	Ensure adequate boot stock and site stock levels to facilitate efficient service delivery. 
+•	Conducted in depth data analysis using R and Python, providing valuable insights for strategic decision making.
+• 	Developed and implemented machine learning models for predictive analytics.
+• 	Collaborated with cross functional teams to create and present reports using Power BI, ensuring effective com
+	munication of complex data.
+• 	Utilized statistical techniques to interpret data, analyze results, and produce comprehensive reports from different
+ 	database source i.e Microsoft Access, Oracle, et al
+• 	Developed interactive data visualizations using Power BI, enhancing end to end process visibility.
+• 	Administer user accounts and access permissions and provide user support and troubleshoot account related
+ 	issues.
+• 	Conduct regular system checks and updates for optimal performance and implement preventive maintenance
+ 	strategies to minimize downtime.
 •	Spearheaded liaison activities with external suppliers, simplifying the interaction process and resolving inquiries promptly. 
 •	Coordinated, supervised, and allocated resources for projects, guaranteeing prompt delivery of critical IT solutions.
-•	Continually honed systems and processes, perpetually raising the bar for support quality and operational efficiency, leading to demonstrable advancements.
-
-Data Analyst	| January 2023 – March 2023 
-Prefort Consult </br>
-•	Utilized statistical techniques to interpret data, analyze results, and produce comprehensive reports. 
-•	Conducted data validation and cleansing to ensure data accuracy and reliability.
-•	Evaluated complex datasets to identify and analyze trends and patterns. 
-•	Employed business analytics reporting tools to prepare reports for management and create data dashboards and visualizations. 
+•	Continually honed systems and processes, perpetually raising the bar for support quality and operational efficiency, leading to 	demonstrable advancements.
 
 Data Analyst	| May 2020 – October 2022
-Access Bank Plc </br>
+Access Bank Plc 
 •	Developed a linked sheets MS Excel solution for ATM GL reconciliation, reducing manual effort by 15%. 
 •	Designed and developed Power BI for weekly cash deposit analysis and communicating with stakeholders, enabling effective 		personnel allocation and service delivery.
 •	Implemented a linked sheets MS Excel system for timely delivery of ATM performance reports, resulting in faster fault resolution.
 •	Collaborated with the team to develop interactive dashboards using Power BI, enabling users to access real-time data insights. 
+•	Design Google sheets to handle and monitor the branches pending audit and General Ledgers (GLs) exceptions
+	in order to avoid regulatory sanctions
 
 	
 Assistant Branch Service Manager | September 2017 – May 2020
@@ -54,11 +57,11 @@ Access Bank Plc
 
 
 ### Projects
-•#Customers Experience Feedback
+#•Customers Experience Feedback
 Led the creation and analysis of daily/weekly and monthly data reports for  various projects within the organizations using Power Bi.
-•#Data Exceptions Project
+#•#Data Exceptions Project
 Worked closely with stakeholders to design and develop analyses, ensuring the delivery of effective insights.
-•#Newly Open Accounts Performance Project
+#•#Newly Open Accounts Performance Project
 Applied data analytics to support strategic decision making  within the organization.
 
 
