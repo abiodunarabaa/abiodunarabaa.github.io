@@ -57,11 +57,11 @@ Access Bank Plc
 
 
 ### Projects
-#•Customers Experience Feedback
+• Customers Experience Feedback
 Led the creation and analysis of daily/weekly and monthly data reports for  various projects within the organizations using Power Bi.
-#•#Data Exceptions Project
+• Data Exceptions Project
 Worked closely with stakeholders to design and develop analyses, ensuring the delivery of effective insights.
-#•#Newly Open Accounts Performance Project
+• Newly Open Accounts Performance Project
 Applied data analytics to support strategic decision making  within the organization.
 
 
