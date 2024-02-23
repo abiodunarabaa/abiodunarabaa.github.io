@@ -36,13 +36,13 @@ Prefort Consult </br>
 Data Analyst	| May 2020 – October 2022 </br>
 Access Bank Plc </br>
 •	Developed a linked sheets MS Excel solution for ATM GL reconciliation, reducing manual effort by 15%. </br>
-•	Designed and developed Power BI for weekly cash deposit analysis and communicating with stakeholders, enabling effective 		personnel allocation and service delivery.</br>
-•	Implemented a linked sheets MS Excel system for timely delivery of ATM performance reports, resulting in faster fault resolution.</br>
-•	Collaborated with the team to develop interactive dashboards using Power BI, enabling users to access real-time data insights. </br>
+•	Designed and developed Power BI for weekly cash deposit analysis and communicating with stakeholders, enabling effective 		personnel allocation and service delivery.
+•	Implemented a linked sheets MS Excel system for timely delivery of ATM performance reports, resulting in faster fault resolution.
+•	Collaborated with the team to develop interactive dashboards using Power BI, enabling users to access real-time data insights. 
 
 	
-Assistant Branch Service Manager | September 2017 – May 2020 </br>
-Access Bank Plc </br>
+Assistant Branch Service Manager | September 2017 – May 2020
+Access Bank Plc 
 •	Provided technical support to staff members, troubleshooting software and hardware issues efficiently. </br>
 •	Assisted in managing and maintaining the branch balance sheets, ensuring data integrity and security. </br>
 •	 Led a team in sharing data insights, automating tasks, and streamlining processes. </br>
@@ -54,9 +54,12 @@ Access Bank Plc </br>
 
 
 ### Projects
-
-
-
+•#Customers Experience Feedback
+Led the creation and analysis of daily/weekly and monthly data reports for  various projects within the organizations using Power Bi.
+•#Data Exceptions Project
+Worked closely with stakeholders to design and develop analyses, ensuring the delivery of effective insights.
+•#Newly Open Accounts Performance Project
+Applied data analytics to support strategic decision making  within the organization.
 
 
 
