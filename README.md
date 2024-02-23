@@ -4,10 +4,10 @@ Programming Language: Python, R Programming, HTML, SQL, JavaScript, PHP
 Other Software/Tools: PowerBI, MS Excel, Google sheets, Tableau, Deep Learning, Machine Learning, MS Word, MS PowerPoint, SQL Server, AWS, Azure, Microsoft Office.
 
 ### Education
-MSc in Data Science | University of Essex, United Kingdom | 2022 – 2023 <html> </br> </html>
+MSc in Data Science | University of Essex, United Kingdom | 2022 – 2023
 Modules included: Databases and data processing with SQL, Programming in Python, Neural network and deep learning, BigData computation for Finance, Data Modelling Experimental Data, Data Exploratory and Visualization.
 
-MBA in Entrepreneurship and Venture creations | Dangote Business School | 2019 – 2021 </br>
+MBA in Entrepreneurship and Venture creations | Dangote Business School | 2019 – 2021 
 Modules included: International Business Management, Ethics and Global Environmental Issues, Managers and Legal Environments, Human Resource Management.
 
 Associateship of The Chartered Institute of Bankers (ACIB)| CIBN | 2017 – 2019 </br>
