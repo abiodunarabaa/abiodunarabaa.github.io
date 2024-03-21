@@ -55,3 +55,7 @@ Access Bank Plc
 •	Ensured regular reconciliation of general ledgers and achieved 100% compliance. 
 •	Achieved satisfactory external audit rating with a score of 83.05%. 
 •	Prepared and presented reports on key performance indicators and data-driven recommendations to improve customers experience. 
+
+
+
+
