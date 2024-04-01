@@ -1,5 +1,5 @@
 ### Professional Summary
-Highly skilled Data Scientist with expertise in R, Python, and Power BI, equipped to excel in the role of a People Data Analyst. A collaborative team player committed to leveraging advanced analytical and statistical methods to support business planning and decision-making. Proven track record of successful report creation and analysis, coupled with effective stakeholder management experience.
+Highly skilled Data Scientist with expertise in R, Python, Tableau, and Power BI, equipped to excel in the role of a People Data Analyst. A collaborative team player committed to leveraging advanced analytical and statistical methods to support business planning and decision-making. Proven track record of successful report creation and analysis, coupled with effective stakeholder management experience.
 
 
 ### Education
