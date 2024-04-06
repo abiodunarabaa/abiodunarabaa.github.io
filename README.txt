@@ -32,7 +32,11 @@ WY Academy
  	strategies to minimize downtime.
 •	Spearheaded liaison activities with external suppliers, simplifying the interaction process and resolving inquiries promptly. 
 •	Coordinated, supervised, and allocated resources for projects, guaranteeing prompt delivery of critical IT solutions.
-•	Continually honed systems and processes, perpetually raising the bar for support quality and operational efficiency, leading to 	demonstrable advancements.
+•	Continually honed systems and processes, perpetually raising the bar for support quality and operational efficiency, leading to demonstrable advancements.
+•	Utilized SQL to extract and analyze data for generating reports on key performance indicators (KPIs).
+•	Supported internal stakeholders with data retrieval, interpretation, and identification of potential areas for improvement.
+•	Conducted indepth data analysis using SQL, R, Python, and Tableau, providing valuable insights for strategic decision making.
+•	Developed and implemented machine learning models for predictive analytics.
 
 Data Analyst	| May 2020 – October 2022
 Access Bank Plc 
@@ -42,12 +46,8 @@ Access Bank Plc
 •	Collaborated with the team to develop interactive dashboards using Power BI, enabling users to access real-time data insights. 
 •	Design Google sheets to handle and monitor the branches pending audit and General Ledgers (GLs) exceptions
 	in order to avoid regulatory sanctions
-•	Managed and maintained institutional data relevant to healthcare operations, ensuring accuracy and accessibility for various departments.
-•	Utilized SQL to extract and analyze data for generating reports on key performance indicators (KPIs).
-•	Supported internal stakeholders with data retrieval, interpretation, and identification of potential areas for improvement.
-•	Conducted indepth data analysis using SQL, R, Python, and Tableau, providing valuable insights for strategic decision making.
-•	Developed and implemented machine learning models for predictive analytics.
-
+•	Streamlined data management procedures, resulting in a 20% reduction in data processing time.
+•	Conducted regular system checks and updates for optimal performance and implemented 
 
 
 
@@ -61,10 +61,7 @@ Access Bank Plc
 •	Ensured regular reconciliation of general ledgers and achieved 100% compliance. 
 •	Achieved satisfactory external audit rating with a score of 83.05%. 
 •	Prepared and presented reports on key performance indicators and data-driven recommendations to improve customers experience. 
-•	
-•	
-•	
-•	
+
 
 
 
