@@ -42,8 +42,15 @@ Access Bank Plc
 •	Collaborated with the team to develop interactive dashboards using Power BI, enabling users to access real-time data insights. 
 •	Design Google sheets to handle and monitor the branches pending audit and General Ledgers (GLs) exceptions
 	in order to avoid regulatory sanctions
+•	Managed and maintained institutional data relevant to healthcare operations, ensuring accuracy and accessibility for various departments.
+•	Utilized SQL to extract and analyze data for generating reports on key performance indicators (KPIs).
+•	Supported internal stakeholders with data retrieval, interpretation, and identification of potential areas for improvement.
+•	Conducted indepth data analysis using SQL, R, Python, and Tableau, providing valuable insights for strategic decision making.
+•	Developed and implemented machine learning models for predictive analytics.
 
-	
+
+
+
 Assistant Branch Service Manager | September 2017 – May 2020
 Access Bank Plc 
 •	Provided technical support to staff members, troubleshooting software and hardware issues efficiently.
@@ -54,7 +61,10 @@ Access Bank Plc
 •	Ensured regular reconciliation of general ledgers and achieved 100% compliance. 
 •	Achieved satisfactory external audit rating with a score of 83.05%. 
 •	Prepared and presented reports on key performance indicators and data-driven recommendations to improve customers experience. 
-
+•	
+•	
+•	
+•	
 
 
 
