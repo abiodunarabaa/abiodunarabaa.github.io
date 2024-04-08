@@ -2,7 +2,7 @@
 Highly skilled Data Scientist with expertise in R, Python, Tableau, and Power BI, equipped to excel in the role of a People Data Analyst. A collaborative team player committed to leveraging advanced analytical and statistical methods to support business planning and decision-making. Proven track record of successful report creation and analysis, coupled with effective stakeholder management experience.
 
 
-### Education
+## Education
 MSc in Data Science | University of Essex, United Kingdom | 2022 – 2023
 Modules included: Databases and data processing with SQL, Programming in Python, Neural network and deep learning, BigData computation for Finance, Data Modelling Experimental Data, Data Exploratory and Visualization.
 
@@ -18,7 +18,7 @@ Modules included: Data Structure, Software practice, Introduction to Information
 
 # Work Experience
 
-## Data Administrator (Freelancing) | December 2022 – December 2023
+## Data Administrator (Freelancing) | December 2022 – April 2023
 ### WY Academy
 - Conducted in-depth data analysis using R and Python, providing valuable insights for strategic decision-making.
 - Developed and implemented machine learning models for predictive analytics.
