@@ -16,10 +16,10 @@ BSc in Computer Science| Lagos State University | 2010 – 2015
 Modules included: Data Structure, Software practice, Introduction to Information Processing, Database management, Statistical computing (using R and SPSS), Introduction to PHP and MySQL, Statistical Processing system, Modelling and Simulation
 
 
-# Work Experience
+## Work Experience
 
-## Data Administrator (Freelancing) | December 2022 – April 2023
-### WY Academy
+### Data Administrator (Freelancing) | December 2022 – April 2023
+#### WY Academy
 - Conducted in-depth data analysis using R and Python, providing valuable insights for strategic decision-making.
 - Developed and implemented machine learning models for predictive analytics.
 - Collaborated with cross-functional teams to create and present reports using Power BI, ensuring effective communication of complex data.
@@ -35,8 +35,8 @@ Modules included: Data Structure, Software practice, Introduction to Information
 - Conducted in-depth data analysis using SQL, R, Python, and Tableau, providing valuable insights for strategic decision-making.
 - Developed and implemented machine learning models for predictive analytics.
 
-## Data Analyst | May 2020 – October 2022
-### Access Bank Plc
+### Data Analyst | May 2020 – October 2022
+#### Access Bank Plc
 - Developed a linked sheets MS Excel solution for ATM GL reconciliation, reducing manual effort by 15%.
 - Designed and developed Power BI for weekly cash deposit analysis and communicating with stakeholders, enabling effective personnel allocation and service delivery.
 - Implemented a linked sheets MS Excel system for timely delivery of ATM performance reports, resulting in faster fault resolution.
@@ -45,8 +45,8 @@ Modules included: Data Structure, Software practice, Introduction to Information
 - Streamlined data management procedures, resulting in a 20% reduction in data processing time.
 - Conducted regular system checks and updates for optimal performance and implemented preventive maintenance strategies.
 
-## Assistant Branch Service Manager | September 2017 – May 2020
-### Access Bank Plc
+### Assistant Branch Service Manager | September 2017 – May 2020
+#### Access Bank Plc
 - Provided technical support to staff members, troubleshooting software and hardware issues efficiently.
 - Assisted in managing and maintaining the branch balance sheets, ensuring data integrity and security.
 - Led a team in sharing data insights, automating tasks, and streamlining processes.
