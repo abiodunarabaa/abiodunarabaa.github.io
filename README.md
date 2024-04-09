@@ -37,7 +37,7 @@ Modules included: Data Structure, Software practice, Introduction to Information
 
 ### Data Analyst | May 2020 – October 2022
 #### Access Bank Plc
-- Developed a linked sheets MS Excel solution for ATM GL reconciliation, reducing manual effort by 15%.
+- Developed a linked sheets MS Excel solution for ATM GL reconciliation, reducing manual effort by 15%. 
 - Designed and developed Power BI for weekly cash deposit analysis and communicating with stakeholders, enabling effective personnel allocation and service delivery.
 - Implemented a linked sheets MS Excel system for timely delivery of ATM performance reports, resulting in faster fault resolution.
 - Collaborated with the team to develop interactive dashboards using Power BI, enabling users to access real-time data insights.
