@@ -18,7 +18,7 @@ Modules included: Data Structure, Software practice, Introduction to Information
 
 ## Work Experience
 
-### Data Administrator (Freelancing) | December 2022 – April 2023
+### Data Analyst Administrator (Freelancing) | December 2022 – April 2023
 #### WY Academy
 - Conducted in-depth data analysis using R and Python, providing valuable insights for strategic decision-making.
 - Developed and implemented machine learning models for predictive analytics.
